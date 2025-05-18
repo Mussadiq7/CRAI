@@ -1,4 +1,4 @@
-# ConnexAI - Social Media Reply Generator
+# C.R.A.I
 
 A tool for generating intelligent, context-aware replies to social media posts using AI. This project was developed for the Hack-celerate 2025 challenge.
 
