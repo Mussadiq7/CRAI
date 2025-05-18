@@ -4,7 +4,7 @@ A tool for generating intelligent, context-aware replies to social media posts u
 
 ## Project Overview
 
-ConnexAI is a web application that helps brands manage their social media presence by automatically generating appropriate replies to tweets/posts. The application consists of:
+C.R.A.I is a web application that helps brands manage their social media presence by automatically generating appropriate replies to tweets/posts. The application consists of:
 
 - **React Frontend**: User interface for viewing tweets, generating AI replies, and providing feedback
 - **Flask Backend**: API server that processes requests, interacts with the OpenAI API, and maintains data persistence
